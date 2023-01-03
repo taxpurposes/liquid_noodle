@@ -1,4 +1,4 @@
-import MusicalKeys from './components/chord_generator.js';
+import MusicalKeys from './components/musical_keys.js';
 
 /*$('document').ready(() => {
 

@@ -1,13 +1,5 @@
-const MusicalKeys = {
-    'Ab': {
-        'NotesInKey': [
-        'Ab', 'Bb', 'C', 'Db', 'Eb', 'F', 'G'
-    ]},
-    'A': [
+import MusicalKeys from './musical_keys.js';
 
-    ]
-}
+const generateProgression = () => {
 
-export default MusicalKeys;
-
-console.log(MusicalKeys['Ab']['NotesInKey'])
+};
