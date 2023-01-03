@@ -1,5 +1,5 @@
 const MusicalKeys = {
-    Ab: {
+    'Ab': {
         'NotesInKey': [
         'Ab', 'Bb', 'C', 'Db', 'Eb', 'F', 'G'
         ],
@@ -8,7 +8,7 @@ const MusicalKeys = {
             return this.NotesInKey;
         }
     },
-    A: {
+    'A': {
         'NotesInKey': [
             'A', 'B', 'C#', 'D', 'E', 'F#', 'G#'
             ],
@@ -17,7 +17,7 @@ const MusicalKeys = {
                 return this.NotesInKey;
             }
         },
-    Bb: {
+    'Bb': {
         'NotesInKey': [
             'Bb', 'C', 'D', 'Eb', 'F', 'G', 'A'
             ],
@@ -26,7 +26,7 @@ const MusicalKeys = {
                 return this.NotesInKey;
             }
         },
-    B: {
+    'B': {
         'NotesInKey': [
             'B', 'C#', 'D#', 'E', 'F#', 'G#', 'A#'
             ],
@@ -35,7 +35,7 @@ const MusicalKeys = {
                 return this.NotesInKey;
             }
         },
-    C: {
+    'C': {
         'NotesInKey': [
             'C', 'D', 'E', 'F', 'G', 'A', 'B'
             ],
@@ -44,7 +44,7 @@ const MusicalKeys = {
                 return this.NotesInKey;
             }
         },
-    Db: {
+    'Db': {
         'NotesInKey': [
             'Db', 'Eb', 'F', 'Gb', 'Ab', 'Bb', 'C'
             ],
@@ -53,7 +53,7 @@ const MusicalKeys = {
                 return this.NotesInKey;
             }
         },
-    D: {
+    'D': {
         'NotesInKey': [
             'D', 'E', 'F#', 'G', 'A', 'B', 'C#'
             ],
@@ -62,7 +62,7 @@ const MusicalKeys = {
                 return this.NotesInKey;
             }
         },
-    Eb: {
+    'Eb': {
         'NotesInKey': [
             'Eb', 'F', 'G', 'Ab', 'Bb', 'C', 'D'
             ],
@@ -71,7 +71,7 @@ const MusicalKeys = {
                 return this.NotesInKey;
             }
         },
-    E: {
+    'E': {
         'NotesInKey': [
             'E', 'F#', 'G#', 'A', 'B', 'C#', 'D#'
             ],
@@ -80,7 +80,7 @@ const MusicalKeys = {
                 return this.NotesInKey;
             }
         },
-    F: {
+    'F': {
         'NotesInKey': [
             'F', 'G', 'A', 'Bb', 'C', 'D', 'E'
             ],
@@ -89,7 +89,7 @@ const MusicalKeys = {
                 return this.NotesInKey;
             }
         },
-    Gb: {
+    'Gb': {
         'NotesInKey': [
             'Gb', 'Ab', 'Bb', 'Cb', 'Db', 'Eb', 'F#'
             ],
@@ -98,7 +98,7 @@ const MusicalKeys = {
                 return this.NotesInKey;
             }
         },
-    G: {
+    'G': {
         'NotesInKey': [
             'G', 'A', 'B', 'C', 'D', 'E', 'F#'
             ],

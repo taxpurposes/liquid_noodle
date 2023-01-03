@@ -11,7 +11,7 @@
 
 html {
     font-size: 16px;
-    background-image: linear-gradient(to right, pink, grey);
+    background-image: linear-gradient(to right, pink, white);
     color: white;
     text-align: center;
     width: 100%;
@@ -23,8 +23,10 @@ html {
 
 /*header styles*/
 
-.logo {
+header h1.logo {
     font-family:'Remover', Courier, monospace;
-    color: black;
+    background: -webkit-linear-gradient(Black, lime);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
     font-size: 3rem;
 }
